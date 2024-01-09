@@ -2,12 +2,6 @@
 
 This project aims to simulate a Raycast Algorithm using an ESP32 board and displaying the results on a Nokia 1100 LCD.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
 ## Introduction
 The Raycast Algorithm is a technique used in computer graphics to render 3D scenes in a 2D environment. In this project, we implement a simplified version of the Raycast Algorithm using an ESP32 board and a Nokia 1100 LCD.
 The Raycasting algorithm is based on the tutorial by Lode Vandevenne: http://lodev.org/cgtutor/raycasting.html 
