@@ -18,6 +18,9 @@ To set up the project, follow these steps:
 2. Install the necessary libraries for ESP32 board on the Arduino Ide.
 3. Upload the project code to your ESP32 board.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SokvlEXcLnE/0.jpg)](https://www.youtube.com/watch?v=SokvlEXcLnE)
+
+
 ## Usage
 Once the project is set up, you can use it to simulate the Raycast Algorithm. The algorithm will generate a 2D representation of a 3D scene on the Nokia 1100 LCD. You can modify the scene parameters and customize the rendering process according to your needs.
 
