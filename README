@@ -12,6 +12,9 @@ To run this project, you will need the following hardware components:
 - Nokia 1100 LCD
 - Breadboard and jumper wires
 - PushButton
+```bash
+pip install foobar
+```
 
 To set up the project, follow these steps:
 1. Connect the ESP32 board to the Nokia 1100 LCD and button using the breadboard and jumper wires. Take a look to the main.ino file for pin reference
