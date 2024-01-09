@@ -12,6 +12,7 @@ To run this project, you will need the following hardware components:
 - Nokia 1100 LCD
 - Breadboard and jumper wires
 - PushButton
+
 ```bash
 pip install foobar
 ```
