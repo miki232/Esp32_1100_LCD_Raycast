@@ -1,19 +1,3 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
 # Raycast Algorithm Simulation with ESP32 and Nokia 1100 LCD
 
 This project aims to simulate a Raycast Algorithm using an ESP32 board and displaying the results on a Nokia 1100 LCD.
@@ -41,23 +25,4 @@ Once the project is set up, you can use it to simulate the Raycast Algorithm. Th
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's GitHub repository.
 
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+https://www.circuitvalley.com/2011/09/nokia-1100-lcd-interfacing-with.html
